@@ -1,5 +1,3 @@
-# smacs0723_lens_analysis
-Arco Periférico Noreste en SMACS J0723.3-7327
 SMACS 0723 Gravitational Lens Analysis
 This repository contains Python scripts for the analysis of a gravitational lens candidate, the Northeast Peripheral Arc, in SMACS J0723.3-7327, as described in the paper "Discovery of a New Gravitational Lens Candidate in the SMACS 0723 Cluster with JWST" (Gutierrez Peñuñuri, 2025, submitted to ApJ).
 Scripts
